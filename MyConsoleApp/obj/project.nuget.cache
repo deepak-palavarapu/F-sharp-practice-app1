@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SiRDHDOU2ldKY2oj05H8yEfUViQ+o0dgRv+v5ttOxijeEF1a7JDLsLRvXJ1FKcy57TP5E7x16mScSYyHJcEFWQ==",
+  "success": true,
+  "projectFilePath": "/Users/deepakpalavarapu/Documents/Personal docs/MS_Docs/University_specific_folder/Florida(UF)/fall2023/courses/DOSP/F#-practice/F-sharp-practice-app1/MyConsoleApp/MyConsoleApp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/deepakpalavarapu/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
